@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Olá Mundo! alterado
+=======
+Olá Mundo!
+
+Editado
+>>>>>>> funcionalidade01
