@@ -1,1 +1,4 @@
 Novo arquivo criado
+
+Um arquivo novo, qualquer, criado em algum momento
+

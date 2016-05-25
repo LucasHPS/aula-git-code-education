@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Olá Mundo! alterado
-=======
-Olá Mundo!
-
-Editado
->>>>>>> funcionalidade01
+Olá Mundo! alterado...
+Mantido após a resolução do conflito entre o branch funcionalidade01...
+=D

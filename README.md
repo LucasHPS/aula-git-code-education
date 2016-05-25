@@ -15,5 +15,6 @@ O Push deste conteúdo foi realizado após a criação deste arquivo **README**,
 3. Push :
   > git push origin master
 
+Após a conclusão da primeira parte do curso, foi estudado sobre repositórios remotos, criação de deploys automáticos, etc. Além disso, foram obtidas dicas sobre a resolução de problemas com o Git.
 
 
